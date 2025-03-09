@@ -1,3 +1,11 @@
+![Image](https://github.com/user-attachments/assets/3671e672-8193-4542-9022-3b3d59378677)
+
+
+![Image](https://github.com/user-attachments/assets/704a0f06-9743-4cce-9e59-7db7193601b2)
+
+
+
+
 Create a folder views
 and put index.ejs and generate.ejs in it
 
